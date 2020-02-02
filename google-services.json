@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "147043100981",
+    "firebase_url": "https://carparkmainmenu.firebaseio.com",
+    "project_id": "carparkmainmenu",
+    "storage_bucket": "carparkmainmenu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147043100981:android:4d47a984e3eeb77d43c47c",
+        "android_client_info": {
+          "package_name": "com.example.carparkmainmenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147043100981-rl2d42ncr4vvlml8alds29cgts1pr1ea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carparkmainmenu",
+            "certificate_hash": "af0428adf6e086ba16ece6ecf4ad2a9898848188"
+          }
+        },
+        {
+          "client_id": "147043100981-dghrg0en3lounf0g8iu4ikdcvaek6ecf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD0yuVmlQPUVmdeH_ln3quX9iA140E5gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147043100981-dghrg0en3lounf0g8iu4ikdcvaek6ecf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
